@@ -1,3 +1,11 @@
+# /// This is giving WA for some reason :(
+# // will debug later
+# // You can use python code for the meantime in the same folder
+# // run it with
+# // python3 13.py input.txt
+# /// Thanks!
+
+
 import sys
 from pathlib import Path
 
