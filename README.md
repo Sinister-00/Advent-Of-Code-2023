@@ -6,6 +6,7 @@ This repository contains my solutions for the Advent of Code challenges. Each da
 - [Directory Structure](#directory-structure)
 - [Notes](#notes)
 - [Issues and Contributions](#issues-and-contributions)
+- [Challenge Completion Screenshot](#challenge-completion-screenshot)
 
 
 ## Usage
@@ -87,3 +88,7 @@ If you'd like to contribute to this repository:
 5. Open a pull request against the `main` branch of this repository.
 
 I'll review and merge the pull requests as soon as possible. Thank you for your contributions!
+
+
+## Challenge-completion-screenshot
+  ![Screenshot](./Screenshot.png)
