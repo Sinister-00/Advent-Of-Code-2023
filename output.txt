@@ -1,0 +1,106 @@
+Solutions:
+-----------------------If there is any issue in submitting then try storing the given input in the day's input.txt file and then running the code. If still you're stuck then raise a PR i'll look into it ASAP--------------------------
+
+Day - 01:
+First solution: 54239
+Second solution: 55343
+
+Day - 02:
+First solution: 2679
+Second solution: 77607
+
+Day - 03:
+First solution: 538046
+Second solution: 81709807
+
+Day - 04:
+First solution: 21568
+Second solution: 11827296
+
+Day - 05:
+First solution: 173706076
+Second solution: 11611182
+
+Day - 06:
+First solution: 588588
+Second solution: 34655848
+
+Day - 07:
+First solution: 249483956
+Second solution: 252137472
+
+Day - 08:
+First solution: 22411
+Second solution: 11188774513823
+
+Day - 09:
+First solution: 1696140818
+Second solution: 1152
+
+Day - 10:
+First solution: 6867
+Second solution: 595
+
+Day - 11:
+First solution: 9509330
+Second solution: 635832237682
+
+Day - 12:
+First solution: 7506
+Second solution: 548241300348335
+
+Day - 13: 
+First solution: 29130
+Second solution: 33438
+
+Day - 14:
+First solution: 106648
+Second solution: 87700
+
+Day - 15:
+First solution: 498538
+Second solution: 286278
+
+Day - 16:
+First solution: 7939
+Second solution: 8318
+
+Day - 17:
+First solution: 936
+Second solution: 1157
+
+Day - 18:
+First solution: 35991
+Second solution: 54058824661845
+
+Day - 19:
+First solution: 492702
+Second solution: 138616621185978
+
+Day - 20:
+First solution: 836127690
+Second solution: 240914003753369
+
+Day - 21:
+First solution: 3743
+Second solution: 618261433219147
+
+Day - 22:
+First solution: 409
+Second solution: 61097
+
+Day - 23:
+First solution: 2366
+Second solution: 6682
+
+Day - 24:
+First solution: 15262
+Second solution: 695832176624149
+
+Day - 25:
+First solution: 543564
+Second solution: NA
+
+
+
+// --- Thank You --- //
